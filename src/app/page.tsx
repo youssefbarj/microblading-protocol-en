@@ -29,7 +29,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "Hand Disinfection",
     duration: "2 min",
     image: "/images/step-2.png",
-    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/step%200-EUDsvPUOAsZdrbjmyf3xEK2qgl9SiT.mp4",
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/step%201%20%282%29-iQcf3vAA2ig7L7oOe9YKRaYaQ65EDP.mp4",
     description: "Mandatory surgical handwashing, drying with sterile towel",
   },
   {
@@ -45,7 +45,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "Anesthesia",
     duration: "30 min",
     image: "/images/step-4.png",
-    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Design%20sans%20titre%20%2814%29%20%28online-video-cutter.com%29-pxYJ8Em18CtnzI3NyoaHMnkpO6aFxM.mp4",
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Design%20sans%20titre%20%2815%29%20%28online-video-cutter.com%29-uJPPnb1G0ARzgCxN2Lw8usGuCtdF5A.mp4",
     description: "Apply a numbing cream to the eyebrows to reduce pain. Leave it on for approximately 30 minutes.",
   },
   {
@@ -61,7 +61,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "Eyebrow Design",
     duration: "10 min",
     image: "/images/step-6.png",
-    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Design%20sans%20titre%20%2816%29%20%28online-video-cutter.com%29-0D555SBa04Vwm3y1r16a75F7uNwwNo.mp4",
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Design%20sans%20titre%20%2817%29%20%28online-video-cutter.com%29%20%281%29%20%281%29-JvmBObVgrLjd7CpirGV63Z20QyrBpO.mp4",
     description: "Discuss with the client the desired eyebrow shape and thickness. Precisely trace the final eyebrow contour using a specialized pencil. Draw the definitive shape following the reference points established in the previous step. Ensure both eyebrows are perfectly symmetrical before proceeding with microblading.",
   },
   {
@@ -77,7 +77,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "First Pigment Application",
     duration: "5 min",
     image: "/images/step-8.png",
-    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Designsanstitre19-ezgif.com-crop-video%20%281%29-O33amVNCF8lMc93bPWPncNXKBQMymR.mp4",
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Designsanstitre20-ezgif.com-crop-video-VuULhV4MX3U34TZEXxu9aF2qwTyJXf.mp4",
     description: "Gently apply the pigment directly onto the freshly created strokes. Use a fine brush or sterilized applicator to work the pigment into each incision. Work methodically to ensure uniform saturation and allow optimal pigment absorption into the skin.",
   },
   {
@@ -93,7 +93,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "Touch-ups and Finishing",
     duration: "10 min",
     image: "/images/step-10.png",
-    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Designsanstitre21-ezgif.com-crop-video-k6uNi4ecTobRYntkaxT8Ne3h6kyv5x.mp4",
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Designsanstitre22-ezgif.com-crop-video-odIUQV487gQbQGlryj7z38lrlmjXsg.mp4",
     description: "Carefully examine the initial result and make any necessary touch-ups. Add additional strokes in areas lacking density or definition. Refine existing contours to achieve perfect symmetry and a natural appearance. This final step ensures a professional and harmonious result.",
   },
   {
