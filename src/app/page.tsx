@@ -109,7 +109,7 @@ const protocolSteps: ProtocolStep[] = [
     title: "Full Video",
     duration: "",
     image: null,
-    video: null,
+    video: "vimeo:1115956913",
     description: "Watch the complete microblading protocol in a single uninterrupted video.",
   },
 ]
@@ -326,7 +326,16 @@ export default function Home() {
                   transition={{ duration: 0.5 }}
                   className="relative w-full h-80 sm:h-96 md:h-[36rem] bg-gradient-to-br from-blue-50 to-violet-50 rounded-2xl overflow-hidden shadow-lg"
                 >
-                  {currentStepData.video ? (
+                  {currentStepData.video?.startsWith("vimeo:") ? (
+                    <iframe
+                      src={`https://player.vimeo.com/video/${currentStepData.video.replace("vimeo:", "")}?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&loop=1&controls=1`}
+                      className="w-full h-full"
+                      frameBorder="0"
+                      allow="autoplay; fullscreen; picture-in-picture"
+                      allowFullScreen
+                      style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+                    />
+                  ) : currentStepData.video ? (
                     <video
                       key={currentStepData.video}
                       autoPlay
